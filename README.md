@@ -1,4 +1,4 @@
-# WF Site Analyser – Client App
+# WF Site Analyser – Client App. 
 
 Desktop application for analysing web-site UI competency, built with **Electron + React 19 + TypeScript**.
 
